@@ -891,10 +891,10 @@
     "@types/istanbul-reports" "^1.1.1"
     "@types/yargs" "^12.0.9"
 
-"@mapd/connector@^4.6.1":
-  version "4.6.1"
-  resolved "https://registry.yarnpkg.com/@mapd/connector/-/connector-4.6.1.tgz#39def34cbd373e14faf463d3159e2d386cd6c45a"
-  integrity sha512-j98si1bCdWuron4wAvvLPjaOtNJCl1FS+fkYmljk99ChOlIb5Gi6xBDvq9QKkCu7i6Gxm3wJrpMT6vpvHGaiXQ==
+"@mapd/connector@^4.7.0":
+  version "4.7.0"
+  resolved "https://registry.yarnpkg.com/@mapd/connector/-/connector-4.7.0.tgz#e19fb94f8f2da4157d79766847d95447ce87fa9e"
+  integrity sha512-n/LEY8q+0/C71bIqEv15N+4ewjw/kv9aPsi7DbbZlWpBmBUOaGeMN79BZs0siVeK86kCXliKAL2xOhDQLRr3xg==
   dependencies:
     codecov "^2.2.0"
     eventemitter3 "^3.1.0"
